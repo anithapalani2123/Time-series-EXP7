@@ -15,7 +15,7 @@ To implement ARIMA model in python.
 
 
 ## PROGRAM:
-```python
+```
 from pandas import read_csv
 from pandas import datetime
 from matplotlib import pyplot

@@ -1,4 +1,4 @@
-# Time-series-EXP7
+
 # EXP 7 - ARMA IN PYTHON
 
 ## AIM:

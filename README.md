@@ -15,7 +15,7 @@ To implement ARIMA model in python.
 
 
 ## PROGRAM:
-python
+```python
 from pandas import read_csv
 from pandas import datetime
 from matplotlib import pyplot
@@ -51,7 +51,7 @@ plt.xlim([0, 200])
 plt.show()
 plot_acf(ARMA_2)
 plot_pacf(ARMA_2)
-
+```
 ## OUTPUT:
 
 ### SIMULATED ARMA(1,1) PROCESS:
